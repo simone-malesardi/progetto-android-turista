@@ -1,0 +1,2 @@
+rootProject.name='progetto-android-turista'
+include ':app'
